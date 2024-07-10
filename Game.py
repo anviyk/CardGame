@@ -1,3 +1,5 @@
+# My card game
+
 from getpass_asterisk.getpass_asterisk import getpass_asterisk
 import random
 
